@@ -17,11 +17,11 @@
 
 | Unit | Topic | Status | Notes | Practice |
 |------|-------|--------|-------|---------|
-| Unit 1 | Variables, Data Types, Collections |✅ Complete| [Notes](./unit-1-basics/notes.md) | [Practice](./unit-1-basics/practice.ipynb) |
-| Unit 2 | Control Structures | ⏳ Pending | [Notes](./unit-2-control-structures/notes.md) | [Practice](./unit-2-control-structures/practice.ipynb) |
-| Unit 3 | Functions, Modules & Exception Handling | ⏳ Pending | [Notes](./unit-3-functions-modules/notes.md) | [Practice](./unit-3-functions-modules/practice.ipynb) |
-| Unit 4 | File I/O, Text Processing & Regex | ⏳ Pending | [Notes](./unit-4-file-io-regex/notes.md) | [Practice](./unit-4-file-io-regex/practice.ipynb) |
-| Unit 5 | OOPs & Classes | ⏳ Pending | [Notes](./unit-5-oops/notes.md) | [Practice](./unit-5-oops/practice.ipynb) |
+| Unit 1 | Variables, Data Types, Collections |✅ Complete| [Notes](./unit-1-basics/notes-1.md) | [Practice](./unit-1-basics/practice.ipynb) |
+| Unit 2 | Control Structures | ⏳ Pending | [Notes](./unit-2-control-structures/notes-2.md) | [Practice](./unit-2-control-structures/practice.ipynb) |
+| Unit 3 | Functions, Modules & Exception Handling | ⏳ Pending | [Notes](./unit-3-functions-modules/notes-3.md) | [Practice](./unit-3-functions-modules/practice.ipynb) |
+| Unit 4 | File I/O, Text Processing & Regex | ⏳ Pending | [Notes](./unit-4-file-io-regex/notes-4.md) | [Practice](./unit-4-file-io-regex/practice.ipynb) |
+| Unit 5 | OOPs & Classes | ⏳ Pending | [Notes](./unit-5-oops/notes-5.md) | [Practice](./unit-5-oops/practice.ipynb) |
 
 ---
 
