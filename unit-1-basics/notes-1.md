@@ -64,7 +64,11 @@ print("Hello world ") # display message on the screen
 | complex |imagnery numbers | 2+3i|
 
 **Maine samjha:**
+- `int data type:` isame `whole numbers` aate hai like `1 2 3 -3 -4 -2 0 etc.`
 
+- `float data type:` isame hamare  `decimal valu` aate hai. jaise `2.34 3.143 etc.`
+
+- `complex data type:` isame hame `imagenary numbers` ko represent karate hai. jaise ` 3+4i`  
 
 ---
 
@@ -72,6 +76,8 @@ print("Hello world ") # display message on the screen
 
 **String kya hai (mere shabdon mein):**
 
+String is a sequence of characters.
+ise inside double quotes `"strings"` likhate hai. 
 
 **Important operations:**
 
@@ -84,6 +90,11 @@ print("Hello world ") # display message on the screen
 
 ```python
 # String practice code
+name = "python"
+last_name = "JAVA"
+print(name.upper()) # 'PYTHON'
+print(last_name.lower()) # 'java'
+print(len(name)) # length of string is 5
 ```
 
 ---
@@ -97,7 +108,26 @@ print("Hello world ") # display message on the screen
 | and, or, not | Logical |True and True |
 
 **Jo confuse kiya pehle:**
+- `and` oprtator me both side value `True` honi chahiye tabhi value true return hoti hai.
+- `or` operator me atleast one side is `True`.
+- `not` operator me `reverse` ho jati hai conditation
+```python
+# Both side should be 'True'
+print(True and True) # result is 'True'
+print(True and False) # result is 'False'
+print(False and True) # result is 'False'
+print(False and False) # result is 'False'
 
+# one side is 'True' then result is true
+print(True or True) # result is 'True'
+print(True or False) # result is 'True'
+print(False or True) # result is 'True'
+print(False or False) # result is 'False'
+
+# not oprator reverse the conditation
+print(not True) # result is 'False'
+print(not False) # result is 'True'
+```
 
 
 ---
@@ -105,13 +135,15 @@ print("Hello world ") # display message on the screen
 ## 📋 List & List Slicing
 
 **List kya hai (mere shabdon mein):**
-
+- list multiple data ka collection hai jisame ham ek list banakar usame bahut saari data rakh sakate hai.
 
 **List slicing samjha:**
 ```python
 # Example:
 my_list = [10, 20, 30, 40, 50]
 # Yahan slicing try karo
+slice = my_list[0:3]
+print(slice) # 10,20,40 
 ```
 
 ---
